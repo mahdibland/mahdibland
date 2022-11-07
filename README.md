@@ -4,6 +4,7 @@
 
   <h3><b>What i know:</b> 🤔</h3>  
 
+  <br/>  
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" width="57"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="57"/>
@@ -20,12 +21,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibland&layout=compact&theme=cobalt" width="320" />
   <br/>  
   <br/>    
-
+  <figure><img src="https://wakatime.com/share/@e1206779-e752-480c-8e21-204ce1844b70/a3eee3f4-ccf8-4b83-8005-f37bd2911cef.svg" width="600"/></figure>
+  <br/>  
+  <br/>  
   <div>
-    <h4><b>I only have Telegram so if you want to contact me DM here:</b> <a href="https://t.me/ONll_CHAN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height="25" width="25"/></a></h4>
+    <h4><b>Contact With Me:</b> <a href="https://t.me/ONll_CHAN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height="25" width="25"/></a></h4>
   </div>
   <br/>  
 </div>
 
-  
 
